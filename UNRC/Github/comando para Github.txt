@@ -1,0 +1,18 @@
+Comando para Git Hub
+ 
+ [[Creacion de primer Repo]]
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git branch -M main
+ git remote add origin https://github.com/SantiagooVazquez/SantiagooVazquez.git
+ git push -u origin main
+
+git fech
+git pull
+
+[[Creacion de rama]]
+
+git branch "nombre de la rama" // crea la rama
+git checkout "nombre de la rama" // me posiciono para trabajar sobre la ram creado
+git branch // para ver en la rama que estamos
