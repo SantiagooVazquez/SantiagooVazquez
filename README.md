@@ -4,5 +4,16 @@
 ## Contacto
 Puedes contactarme a través de:
 
-📫 Correo electrónico: [santiagovazquez010@gmial.com]
+📫 Correo electrónico: [santiagovazquez010@gmail.com]
 
+## 💻 Tecnologías y Herramientas
+- 💻 C
+- 🎨 CSS3
+- ☕ Java
+- 🌐 HTML5
+- 💎 Ruby
+- 🛤️ Ruby on Rails
+- 🐬 MySQL
+- 📱 SQLite
+- 🐘 PostgreSQL
+- 🐳 Docker
