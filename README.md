@@ -1,6 +1,6 @@
 # Bienvenido a mi Repositorio
 ## Sobre Mí
-Graduado en Analista en Sistemas en la Universidad Nacional de Río Cuarto (UNRC)
+Graduado de Analista en Computación en la Universidad Nacional de Río Cuarto (UNRC)
 ## Contacto
 Puedes contactarme a través de:
 
